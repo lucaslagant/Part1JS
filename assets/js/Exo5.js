@@ -1,7 +1,7 @@
 // Variable
-var firstNumber = prompt ('Saisissez votre premier nombre');
-var secondNumber = prompt ('Saisissez votre deuxième nombre');
-var resultCalc = Number;
+let firstNumber = prompt ('Saisissez votre premier nombre');
+let secondNumber = prompt ('Saisissez votre deuxième nombre');
+let resultCalc = Number;
 
 // Instruction
 resultCalc = Number(firstNumber)+Number(secondNumber);
