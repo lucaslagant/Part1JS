@@ -1,2 +1,3 @@
-var message = 'Bonjour';
+let message = 'Bonjour';
+
 alert (message)
